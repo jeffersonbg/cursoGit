@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Testando uma atualização de arquivo.
 
 my name is mr. jefferson
+=======
+Testando uma atualização de arquivo.
+
+my name is mr. jefferson
+>>>>>>> 2d6ab9007e6bbcd0352a57dc1b962b1078ff9afe

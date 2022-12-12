@@ -3,3 +3,5 @@ a
 b
 c
 d
+
+Assistindo pela segunda vez o video.
